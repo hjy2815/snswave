@@ -38,7 +38,7 @@
         "main": true,
         "title": "SNSWAVE",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>SNSMASTER</title>\n    <meta property=\"og:url\" content=\"http://snswave.co.kr/\">\n    <meta property=\"og:title\" content=\"SNSWAVE\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/oRThzYg.png\">\n    <meta property=\"og:description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"keywords\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    ... \n</head>\n",
+        "header_custom": "<head>\n    <title>SNSMASTER</title>\n    <meta property=\"og:url\" content=\"http://snswave.co.kr/\">\n    <meta property=\"og:title\" content=\"SNSWAVE\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/aiN0tct.png\">\n    <meta property=\"og:description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"keywords\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    ... \n</head>\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -100,7 +100,7 @@
             }
           },
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -116,12 +116,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/snsmaster-413x85.png",
+              "src": "@PROJECT_PATH@/assets/images/snswave21-300x119.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -129,7 +128,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SNSWAVE</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
