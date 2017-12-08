@@ -346,7 +346,6 @@
               "name": "twitter",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#fc7a60"
             }
@@ -358,7 +357,6 @@
               "name": "youtube",
               "family": "FontAwesome",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#fc7a60"
             }
@@ -695,7 +693,6 @@
               "name": "user-unfollow",
               "family": "simple-line-icons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#fc7a60"
             }
@@ -731,7 +728,7 @@
           "caption2": "해시태그를 지정 : 새 글이 올라올 때 가서 자동으로 좋아요/댓글/팔로우<br>지역을 지정 : 인스타그램 새 글이 올라올 때 가서 자동으로 좋아요/댓글/팔로우&nbsp;<br>@를 이용해 관심 계정을 지정 : 그 계정에서 새글이 올라올 때 가서 자동으로 좋아요/댓글/팔로우",
           "title3": "Web Fonts",
           "subtitle3": "다이랙트 메시지(DM) 서비스",
-          "caption3": "날 팔로워한 인친에게 감사인사를 바로 보낸다(여러개의 멘트를 등록하면 랜덤으로 돌아가며 메시지를 보낸다.)",
+          "caption3": "날 팔로워한 인친에게 감사인사를 바로 보낸다<br>여러개의 멘트를 등록하면 랜덤으로 돌아가며 메시지를 보낸다.",
           "title4": "Unlimited Sites",
           "subtitle4": "자동 언팔로우",
           "caption4": "화이트 리스트 업로드 기능, 날 팔로우한 계정은 제외하고 언팔하기, 언팔하는 시간지정, 언팔리스트 로그 목록지원",
