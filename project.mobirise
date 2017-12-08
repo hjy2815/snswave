@@ -234,7 +234,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;▶&nbsp;</a> ",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"http://happywave.co.kr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;▶&nbsp;</a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -782,7 +782,7 @@
           },
           "title": "Thanks for your interest in SNSWAVE",
           "text": "궁금한 점이 있으시면 언제든지 연락주세요. ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"icon54-v1-conference-chat mbr-iconfont mbr-iconfont-btn\"></span>무료상담</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://pf.kakao.com/_Dkhvxl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-conference-chat mbr-iconfont mbr-iconfont-btn\"></span>무료상담</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
