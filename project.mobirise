@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.3.5",
-    "uniqCompNum": 41,
+    "uniqCompNum": 43,
     "versionPublish": "4.5.1",
     "favicon": "@PROJECT_PATH@/assets/images/heart-1-128x128.png",
     "noImageResize": "",
@@ -425,7 +425,7 @@
             "showImages": true,
             "showNumber": false,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true,
             "imageSize": 50,
@@ -454,13 +454,13 @@
               "active": true,
               "src": "https://youtu.be/s52VQ1nP3Cc",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             }
           },
           "title1": "SNS WAVE 서비스 이용 방법",
-          "subtitle1": "snswave : instagram",
-          "caption1": "InstaGram  상품 서비스 이용방법 영상입니다.<br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "InstaGram 상품 서비스 이용방법 영상입니다.",
           "number1": "1",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
@@ -477,13 +477,13 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"http://app.snswave.co.kr/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">learn more</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "features6",
-          "_anchor": "features6-q"
+          "_anchor": "features6-16"
         },
         {
           "_params": {
