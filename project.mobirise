@@ -27,7 +27,7 @@
     "versionFirst": "4.3.5",
     "uniqCompNum": 43,
     "versionPublish": "4.5.1",
-    "favicon": "@PROJECT_PATH@/assets/images/heart-1-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/insta-01-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined"
@@ -112,7 +112,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features16-6\">SERVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/busanplanet/\">INSTAGRAMTIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://hjy2815.github.io/snsmastershop/\" target=\"_blank\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.snswave.co.kr/\">login</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features16-6\">SERVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features9-t\">INSTAGRAM TIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://pf.kakao.com/_Dkhvxl\" target=\"_blank\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.snswave.co.kr/\">login</a></li>",
           "logo": {
             "image": {
               "active": true,
