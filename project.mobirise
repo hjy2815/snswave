@@ -275,7 +275,7 @@
           },
           "title": "sNSWAVE 주요 서비스",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://app.snswave.co.kr\" data-toolbar=\"-mbrBtnMove\">가입하기</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -475,7 +475,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 알아보기</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
