@@ -426,9 +426,9 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true,
-            "imageSize": 50,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "imageSize": "58",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
@@ -456,7 +456,7 @@
               "loop": false
             }
           },
-          "title1": "SNS WAVE 서비스 이용 방법",
+          "title1": "<b>SNSWAVE 서비스 이용 방법</b>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "InstaGram 상품 서비스 이용방법 영상입니다.",
           "number1": "1",
