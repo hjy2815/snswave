@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.3.5",
-    "uniqCompNum": 43,
+    "uniqCompNum": 44,
     "versionPublish": "4.5.1",
     "favicon": "@PROJECT_PATH@/assets/images/insta-01-128x128.png",
     "noImageResize": "",
@@ -234,7 +234,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"http://happywave.co.kr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;▶&nbsp;</a> ",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"http://app.snswave.co.kr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-rocket mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -253,9 +253,9 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": false,
@@ -506,7 +506,7 @@
             "overlayOpacity": 0.5
           },
           "mainTitle": "인스타그램을 효과적으로 키우는 5가지 방법",
-          "mainSubtitle": "<br><br>인스타그램 좋아요, 팔로우, 조회수는 노출에 도움을 줄 뿐 \r<div>홍보효과는 직접 관리 하셔야 제대로된 인스타그램 계정을 키우실 수 있습니다.\r</div><div>인스타그램을 효과적으로 키우는 5가지 방법(노하우) 를 제공해 드리겠습니다.\r</div><div>오직 WAVE에서만 지원 합니다.</div>",
+          "mainSubtitle": "<br><br>인스타그램 좋아요, 팔로우, 조회수는 노출에 도움을 줄 뿐 \n<div>홍보효과는 직접 관리 하셔야 제대로된 인스타그램 계정을 키우실 수 있습니다.\n</div><div>인스타그램을 효과적으로 키우는 5가지 방법(<b>노하우</b>) 를 제공해 드리겠습니다.\n</div><div>오직 WAVE에서만 지원 합니다.</div>",
           "title1": "#01. 적절한 게시물 컨텐츠를 업로드 해라!",
           "title2": "#02. 소통을  해라!\n",
           "title3": "#03. 해시태그를 이용  해라!\n",
@@ -792,12 +792,19 @@
         },
         {
           "_styles": {
-            ".mbr-section-text": {
+            ".mbr-section-subtitle, .mbr-section-text": {
               "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0"
             }
           },
           "_params": {
-            "paddingTop": 2,
+            "logo": true,
+            "showTitles": true,
+            "showButtons": false,
+            "paddingTop": "3",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -808,13 +815,48 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 SNSWAVE",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/insta-01-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "<b>주식회사 더행복한 </b>",
+          "text11": "대표자 : 최성재<br>사업자등록번호: 510-86-00189\n<br>통신판매업신고 : 제 2015-경기안산-0908호&nbsp;<br>",
+          "text12": "",
+          "text13": "",
+          "text14": "",
+          "text15": "",
+          "title2": "<b>Contacts</b>",
+          "text21": "주소 : 경기도 안산시 단원구 광덕3로 145-5, 402<br>개인정보관리책임자 : 김인수 \n<br>결제관련 문의 : 070-7816-6634 \n<br>입금계좌 : 국민 226401-04-298501 (주)더행복한<br>",
+          "text22": "",
+          "text23": "",
+          "text24": "",
+          "text25": "",
+          "title3": "",
+          "text31": "",
+          "text32": "",
+          "text33": "",
+          "text34": "",
+          "text35": "",
+          "followtext": "follow us",
+          "text": "© Copyright Thehappier CO.,LTD. All rights reserved.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer2",
-          "_anchor": "footer2-14"
+          "_name": "footer1",
+          "_anchor": "footer1-17"
         }
       ]
     }

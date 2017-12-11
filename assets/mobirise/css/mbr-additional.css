@@ -848,6 +848,11 @@ blockquote {
   text-align: left;
   font-size: 72px;
 }
-#footer2-14 .mbr-section-text {
+#footer1-17 .mbr-section-subtitle,
+#footer1-17 .mbr-section-text {
   color: #fff;
+}
+#footer1-17 .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
 }
