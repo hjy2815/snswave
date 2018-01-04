@@ -30,9 +30,13 @@
     "favicon": "@PROJECT_PATH@/assets/images/insta-01-128x128-1.png",
     "noImageResize": "",
     "google-analytics": "",
-    "siteUrl": "undefined",
+    "siteUrl": "http://snswave.co.kr/",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: Yeti\nAllow:/",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
