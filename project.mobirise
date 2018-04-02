@@ -44,7 +44,7 @@
         "main": true,
         "title": "SNSWAVE",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>SNSWAVE</title>\n    <meta property=\"og:url\" content=\"http://snswave.co.kr/\">\n    <meta property=\"og:title\" content=\"SNSWAVE\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/aiN0tct.png\">\n    <meta property=\"og:description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"keywords\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n<meta name=\"google-site-verification\" content=\"YDUp0KPbQmKqbY7t5pv2I3AObXTQzUtTkAQuCusE_R8\" />\n<meta name=\"naver-site-verification\" content=\"b21effe2ba3dd8597dc3d0690b890173e040b891\"/>\n</head>\n",
+        "header_custom": "<head>\n    <title>SNSWAVE</title>\n    <meta property=\"og:url\" content=\"http://snswave.co.kr/\">\n    <meta property=\"og:title\" content=\"SNSWAVE\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/aiN0tct.png\">\n    <meta property=\"og:description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"keywords\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n<meta name=\"google-site-verification\" content=\"YDUp0KPbQmKqbY7t5pv2I3AObXTQzUtTkAQuCusE_R8\" />\n<meta name=\"naver-site-verification\" content=\"b21effe2ba3dd8597dc3d0690b890173e040b891\"/>\n<!--PROOF PIXEL--><script src='https://cdn.useproof.com/proof.js?acc=eglRYqbZ9pQY6tXvdQHZuhbS1n23' async></script><!--END PROOF PIXEL-->\n</head>\n",
         "footer_custom": "",
         "html_before": ""
       },
